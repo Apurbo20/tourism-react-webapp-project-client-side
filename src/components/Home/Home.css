@@ -1,0 +1,65 @@
+.banner{
+    background: rgba(0, 0, 0, 0.2)url(../../images/banner.jpg);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+
+.banner-text{
+    color: white;
+    text-align: left;
+    margin: 90px 0px;
+}
+
+.banner-text h1{
+    font-size: 80px;
+    font-weight: 600;
+
+}
+.banner-text p{
+    font-size: 20px;
+    color: black;
+}
+
+.see-packages-btn{
+
+    background-color: #725229;
+    color: white;
+    padding: 30px;
+    width: 250px;
+    border: none;
+    border-radius: 10px;
+}
+
+.offer-text-one{
+    background-image:url(../../images/cox-bazar.jpg);
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+    color: #725229;
+    
+}
+.offer-text-two{
+    background-image:url(../../images/mountain.jpg);
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+    color: #725229;
+    
+}
+
+
+
+.offer-section{
+    background-color: #725229;
+   
+}
+
+.offer-img{
+    width: 50%;
+}
