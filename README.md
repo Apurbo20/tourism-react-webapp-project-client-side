@@ -12,4 +12,4 @@ This project is mainly developed on basis of fake data,fake information and loca
 
 
 ## Note
-This Project is not a professional one it's just created for assignment & practice purpose# tourism-or-delivery-website-client-side-Rakibulbanna
+This Project is not a professional one it's just created for assignment & practice purpose# tourism-or-delivery-website-client-side
